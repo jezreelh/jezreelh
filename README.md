@@ -1,8 +1,8 @@
 # 👨‍💻 Desarrollador Backend & Full Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([TU_ENLACE_LINKEDIN](https://www.linkedin.com/in/pedro-hern%C3%A1ndez-jim%C3%A9nez-266a34305/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hern%C3%A1ndez-jim%C3%A9nez-266a34305/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hjezreel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([TU_SITIO_WEB](http://miportafoliopedro.atwebpages.com/index.html))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://miportafoliopedro.atwebpages.com/index.html)
 
 ## 🛠️ Especialista en Backend
 
@@ -60,27 +60,27 @@ Página Web para cafetería de la universidad con funciones de backend.
 
 **Tecnologías:** HTML, JS, CSS, PHP, Bootstrap, SQL
 
-#### 🌟 [Página web con Python]([enlace](https://miportafoliopedro.atwebpages.com/proyecto-python.html))
+#### 🌟 [Página web con Python](https://miportafoliopedro.atwebpages.com/proyecto-python.html)
 Aprendí a manejar JSON, implementación de APIs, descarga y generación de formatos PDF.
 
 **Tecnologías:** HTML, JS, CSS, Python, APIs, SCSS, PDF
 
-#### 🌟 [Identificador de Personas]([enlace](https://miportafoliopedro.atwebpages.com/proyecto-identificador.html))
+#### 🌟 [Identificador de Personas](https://miportafoliopedro.atwebpages.com/proyecto-identificador.html)
 Cree una app que puede identificar rostros en base a una imagen y dar acceso o hacer alguna otra opción.
 
 **Tecnologías:** Python, Face Recognition, Cv2
 
-#### 🌟 [Identificador de Colores]([enlace](https://miportafoliopedro.atwebpages.com/proyecto-colores.html))
+#### 🌟 [Identificador de Colores](https://miportafoliopedro.atwebpages.com/proyecto-colores.html)
 Cree una app que puede identificar colores en el centro y reconocer el color y ángulo.
 
 **Tecnologías:** Python, Face Recognition, numpy
 
-#### 🌟 [Eccommerce Clon De Amazon (En curso)]([enlace](https://miportafoliopedro.atwebpages.com/portafolio.html))
+#### 🌟 [Eccommerce Clon De Amazon (En curso)](https://miportafoliopedro.atwebpages.com/portafolio.html)
 Clon de Amazon desde 0 usando Entity Framework y CleanArchitecture.
 
 **Tecnologías:** C#, Entity Framework, Docker, APIs
 
-#### 🌟 [Capacitación Virtual (en curso)]([enlace](https://miportafoliopedro.atwebpages.com/portafolio.html))
+#### 🌟 [Capacitación Virtual (en curso)](https://miportafoliopedro.atwebpages.com/portafolio.html)
 Videojuego a través de realidad virtual en donde se capacita al personal operador.
 
 **Tecnologías:** C#, Unity
