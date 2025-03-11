@@ -1,8 +1,8 @@
 # 👨‍💻 Desarrollador Backend & Full Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](TU_SITIO_WEB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([TU_ENLACE_LINKEDIN](https://www.linkedin.com/in/pedro-hern%C3%A1ndez-jim%C3%A9nez-266a34305/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hjezreel@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([TU_SITIO_WEB](http://miportafoliopedro.atwebpages.com/index.html))
 
 ## 🛠️ Especialista en Backend
 
@@ -47,28 +47,43 @@ graph TD;
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jezreelh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezreelh&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
 ### 🏆 Proyectos Destacados
 
-#### 🌟 [Nombre del Proyecto](enlace)
-Sistema backend desarrollado en C# y .NET Core que gestiona [descripción]. Implementa arquitectura de microservicios y contenedores Docker.
+#### 🌟 [La Serranita]([enlace](https://miportafoliopedro.atwebpages.com/proyecto-serranita.html))
+Página Web para cafetería de la universidad con funciones de backend.
 
-**Tecnologías:** C#, .NET, SQL Server, Entity Framework, Docker
+**Tecnologías:** HTML, JS, CSS, PHP, Bootstrap, SQL
 
-#### 🌟 [Nombre del Proyecto](enlace)
-API REST completa para [descripción del propósito] desarrollada con C++ y SQLite. Incluye autenticación, autorización y documentación completa.
+#### 🌟 [Página web con Python]([enlace](https://miportafoliopedro.atwebpages.com/proyecto-python.html))
+Aprendí a manejar JSON, implementación de APIs, descarga y generación de formatos PDF.
 
-**Tecnologías:** C++, SQLite, REST API, JWT
+**Tecnologías:** HTML, JS, CSS, Python, APIs, SCSS, PDF
 
-#### 🌟 [Nombre del Proyecto](enlace)
-Plataforma fullstack para [descripción] que utiliza React en el frontend y Python (FastAPI) en el backend.
+#### 🌟 [Identificador de Personas]([enlace](https://miportafoliopedro.atwebpages.com/proyecto-identificador.html))
+Cree una app que puede identificar rostros en base a una imagen y dar acceso o hacer alguna otra opción.
 
-**Tecnologías:** Python, FastAPI, React, PostgreSQL
+**Tecnologías:** Python, Face Recognition, Cv2
+
+#### 🌟 [Identificador de Colores]([enlace](https://miportafoliopedro.atwebpages.com/proyecto-colores.html))
+Cree una app que puede identificar colores en el centro y reconocer el color y ángulo.
+
+**Tecnologías:** Python, Face Recognition, numpy
+
+#### 🌟 [Eccommerce Clon De Amazon (En curso)]([enlace](https://miportafoliopedro.atwebpages.com/portafolio.html))
+Clon de Amazon desde 0 usando Entity Framework y CleanArchitecture.
+
+**Tecnologías:** C#, Entity Framework, Docker, APIs
+
+#### 🌟 [Capacitación Virtual (en curso)]([enlace](https://miportafoliopedro.atwebpages.com/portafolio.html))
+Videojuego a través de realidad virtual en donde se capacita al personal operador.
+
+**Tecnologías:** C#, Unity
 
 ---
 
@@ -81,12 +96,6 @@ Plataforma fullstack para [descripción] que utiliza React en el frontend y Pyth
 - Implementación de patrones de diseño
 - Integración continua / Despliegue continuo (CI/CD)
 - Containerización y orquestación
-
----
-
-### 📈 Contribuciones
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
